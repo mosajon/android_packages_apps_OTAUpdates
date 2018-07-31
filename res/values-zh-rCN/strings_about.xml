@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ 	Copyright (C) 2015 Matt Booth (Kryten2k35).
+ 
+ 	Licensed under the Attribution-NonCommercial-ShareAlike 4.0 International 
+ 	(the "License") you may not use this file except in compliance with the License.
+ 	You may obtain a copy of the License at
+ 
+ 		http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+ 
+ 	Unless required by applicable law or agreed to in writing, software
+ 	distributed under the License is distributed on an "AS IS" BASIS,
+	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+	See the License for the specific language governing permissions and
+	limitations under the License.
+
+-->
+<resources>
+
+    <string name="about_about_title">关于</string>
+    <string name="about_preferences_summary">OTA更新信息、捐赠和贡献者</string>
+    <string name="about_about_summary">这个应用程序是出于我对使用其他没有我想要的应用程序的沮丧。为了我的ROM，我开发了这个应用，但很快意识到其他开发人员也可能会发现这也是有用的。 因此，我对此进行了总结，并为其他开发人员编写了一些实施指南。</string>
+    <string name="about_credits_title">贡献者</string>
+    <string name="about_credits_summary">贡献者列表</string>
+    <string name="about_donate_title">捐赠</string>
+    <string name="about_donate_summary">如果这个应用程序使您的生活更轻松，请考虑向应用程序开发人员捐款(Kryten2k35)</string>
+    <string name="about_donate_button_summary">抢我一杯啤酒</string>
+    <string name="about_version_title">版本</string>
+    <string name="about_app_version">应用程序版本：</string>
+    <string name="changelog">更改日志</string>
+    <string name="changelog_summary">查看应用程序的更改日志</string>
+    <string name="changelog_error">读取更改日志时出错</string>
+
+</resources>

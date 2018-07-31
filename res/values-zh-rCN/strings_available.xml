@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ 	Copyright (C) 2015 Matt Booth (Kryten2k35).
+ 
+ 	Licensed under the Attribution-NonCommercial-ShareAlike 4.0 International 
+ 	(the "License") you may not use this file except in compliance with the License.
+ 	You may obtain a copy of the License at
+ 
+ 		http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+ 
+ 	Unless required by applicable law or agreed to in writing, software
+ 	distributed under the License is distributed on an "AS IS" BASIS,
+	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+	See the License for the specific language governing permissions and
+	limitations under the License.
+
+-->
+<resources>
+
+    <string name="available_update_name">在这里更新名称和文件信息</string>
+    <string name="available_progress_counter">0MB / 0MB</string>
+    <string name="available_changelog_title">更改日志</string>
+    <string name="available_changelog_content">您的更改日志在这里</string>
+    <string name="available_md5" translatable="false">MD5：</string>
+    <string name="available_check_md5">检查 MD5</string>
+    <string name="available_ready_to_install">安装准备就绪</string>
+    <string name="available_md5_ok">MD5 检查通过</string>
+    <string name="available_md5_failed">MD5 检查失败</string>
+    <string name="available_checking_md5">正在检查 MD5&#8230;</string>
+    <string name="available_downloading">正在下载&#8230;</string>
+    <string name="are_you_sure">你确定吗？</string>
+    <string name="available_delete_confirm_message">你确定要删除下载的文件吗？</string>
+    <string name="available_reboot_confirm">你想现在重启吗？</string>
+    <string name="available_url_error">URL错误：请查看你的ROM开发者</string>
+    <string name="available_reboot_manual_title">请立即重新启动</string>
+    <string name="available_reboot_manual_message">请重新启动到Recovery并刷入您的ROM文件。你可以在 /sdcard/OTAUpdates 找到它。</string>
+    <string name="available_wrong_network_title">网络选择错误</string>
+    <string name="available_wrong_network_message">您正在尝试通过您的移动网络下载，并且设置仅允许Wi-Fi。请改变相应的设置。</string>
+
+</resources>
